@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.50837294.chunk.css",
-    "main.js": "/static/js/main.bb816031.chunk.js",
-    "main.js.map": "/static/js/main.bb816031.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.2050718e.chunk.js": "/static/js/2.2050718e.chunk.js",
-    "static/js/2.2050718e.chunk.js.map": "/static/js/2.2050718e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9ff5ab291cfff18fd8aef1c7b8c9a647.js": "/precache-manifest.9ff5ab291cfff18fd8aef1c7b8c9a647.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.50837294.chunk.css.map": "/static/css/main.50837294.chunk.css.map"
+    "main.css": "/Seasons_React/static/css/main.50837294.chunk.css",
+    "main.js": "/Seasons_React/static/js/main.a031538e.chunk.js",
+    "main.js.map": "/Seasons_React/static/js/main.a031538e.chunk.js.map",
+    "runtime~main.js": "/Seasons_React/static/js/runtime~main.44f1b987.js",
+    "runtime~main.js.map": "/Seasons_React/static/js/runtime~main.44f1b987.js.map",
+    "static/js/2.2050718e.chunk.js": "/Seasons_React/static/js/2.2050718e.chunk.js",
+    "static/js/2.2050718e.chunk.js.map": "/Seasons_React/static/js/2.2050718e.chunk.js.map",
+    "index.html": "/Seasons_React/index.html",
+    "precache-manifest.58de37f8b8c18d0b3ea6a0c5235ad89d.js": "/Seasons_React/precache-manifest.58de37f8b8c18d0b3ea6a0c5235ad89d.js",
+    "service-worker.js": "/Seasons_React/service-worker.js",
+    "static/css/main.50837294.chunk.css.map": "/Seasons_React/static/css/main.50837294.chunk.css.map"
   }
 }
