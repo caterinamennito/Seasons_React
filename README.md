@@ -10,4 +10,7 @@ Created during the BeCode training, may 2019
 ## Preview for Winter
 ![Winter Preview](https://github.com/caterinamennito/Seasons_React/blob/master/img/react2.png)
 
+## Visit it!
+
+[Link GitHub page](https://caterinamennito.github.io/Seasons_React/)
 
